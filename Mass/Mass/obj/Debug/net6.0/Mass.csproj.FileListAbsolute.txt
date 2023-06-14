@@ -1,0 +1,15 @@
+D:\C# Projects\Mass\Mass\bin\Debug\net6.0\Mass.exe
+D:\C# Projects\Mass\Mass\bin\Debug\net6.0\Mass.deps.json
+D:\C# Projects\Mass\Mass\bin\Debug\net6.0\Mass.runtimeconfig.json
+D:\C# Projects\Mass\Mass\bin\Debug\net6.0\Mass.dll
+D:\C# Projects\Mass\Mass\bin\Debug\net6.0\Mass.pdb
+D:\C# Projects\Mass\Mass\obj\Debug\net6.0\Mass.csproj.AssemblyReference.cache
+D:\C# Projects\Mass\Mass\obj\Debug\net6.0\Mass.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Mass\Mass\obj\Debug\net6.0\Mass.AssemblyInfoInputs.cache
+D:\C# Projects\Mass\Mass\obj\Debug\net6.0\Mass.AssemblyInfo.cs
+D:\C# Projects\Mass\Mass\obj\Debug\net6.0\Mass.csproj.CoreCompileInputs.cache
+D:\C# Projects\Mass\Mass\obj\Debug\net6.0\Mass.dll
+D:\C# Projects\Mass\Mass\obj\Debug\net6.0\refint\Mass.dll
+D:\C# Projects\Mass\Mass\obj\Debug\net6.0\Mass.pdb
+D:\C# Projects\Mass\Mass\obj\Debug\net6.0\Mass.genruntimeconfig.cache
+D:\C# Projects\Mass\Mass\obj\Debug\net6.0\ref\Mass.dll
